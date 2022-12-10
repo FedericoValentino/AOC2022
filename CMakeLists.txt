@@ -18,3 +18,7 @@ add_executable(day6 Day6/aoc6.c)
 add_executable(day7 Day7/aoc7.c)
 
 add_executable(day8 Day8/aoc8.c)
+
+add_executable(day9 Day9/aoc9.c)
+
+add_executable(day10 Day10/aoc10.c)

@@ -11,6 +11,7 @@ I'm listing my own solutions to the advent of code of 2022
 | 06/12 | [Tuning Trouble](https://adventofcode.com/2022/day/6) | [Day6](https://github.com/FedericoValentino/AOC2022/tree/master/Day6) |
 | 07/12 | [No Space Left On Device](https://adventofcode.com/2022/day/7) | [Day7](https://github.com/FedericoValentino/AOC2022/tree/master/Day7) |
 | 08/12 | [Treetop Tree House](https://adventofcode.com/2022/day/8) | [Day8](https://github.com/FedericoValentino/AOC2022/tree/master/Day8) |
-
+| 09/12 | [Rope Bridge](https://adventofcode.com/2022/day/9) | [Day9](https://github.com/FedericoValentino/AOC2022/tree/master/Day9) |
+| 10/12 | [Cathode-Ray Tube](https://adventofcode.com/2022/day/10) | [Day10](https://github.com/FedericoValentino/AOC2022/tree/master/Day10) |
 
 NB: Solutions are not guaranteed to be optimal!
